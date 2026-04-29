@@ -150,4 +150,4 @@ Size: ~100,000 orders | 2016–2018 | 5 CSV files used
 
 **Bhumika Patrange**
 B.Tech CSE — D Y Patil International University, Pune
-[LinkedIn](https://www.linkedin.com/in/bhumika-patrange
+LinkedIn - https://www.linkedin.com/in/bhumika-patrange
